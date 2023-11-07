@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ftonyalejandrofr@gmail.com**
 
-- ⚡ Fun fact **I think I am very persistent, loyal and calm**
+- ⚡ Fun fact **I think I'm very persistent, loyal and calm, ah! and I like anime 😅 and a fan of WoW and Dota2 🎮😎✌❤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
