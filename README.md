@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Vuejs, Nextjs**
 
-- 👨‍💻 All of my projects are available at [[https://bleach41.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://bleach41.vercel.app/]
 
 - 💬 Ask me about **Reactjs, Vuejs**
 
