@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bleach41" alt="bleach41" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, Vuejs, Svelte**
+- 🌱 I’m currently learning **Reactjs, Vuejs, Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://portfoliotony41.netlify.app/](https://portfoliotony41.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliotony41.netlify.app/](https://bleach41.vercel.app/)
 
 - 💬 Ask me about **Reactjs, Vuejs**
 
